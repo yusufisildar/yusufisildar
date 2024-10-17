@@ -1,3 +1,5 @@
+<p align="center"><img src="https://www.dexerto.com/cdn-cgi/image/width=750,quality=60,format=auto/https://editors.dexerto.com/wp-content/uploads/2020/07/heavy-smash-ultimate.jpg"> </p>
+
 <h1 align="center">Hi 👋, I'm Yusuf IŞILDAR</h1>
 <h3 align="center">Imagination is essence of discovery.</h3>
 
