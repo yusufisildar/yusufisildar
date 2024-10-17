@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf IŞILDAR</h1>
 <h3 align="center">Imagination is essence of discovery.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufisildar" alt="yusufisildar" /></a> </p>
-
 - 🔭 I’m currently working on **becoming a Backend Developer**
 
 - 🌱 I’m currently learning **SQL**
