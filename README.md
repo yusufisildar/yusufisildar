@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **becoming a Backend Developer**
 
-- 🌱 I’m currently learning **SQL**
-
-- 🤝 I’m looking for help with **becoming a DevOps Engineer**
+- 🌱 I’m currently learning **SAP ABAP**
 
 - 📫 How to reach me **ysfisildar@gmail.com**
 
