@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf IŞILDAR</h1>
 <h3 align="center">Imagination is essence of discovery.</h3>
 
-- 🔭 I’m currently working on **becoming a Backend Developer**
+- 🔭 I’m currently working on **becoming a SAP ABAP Developer**
 
 - 🌱 I’m currently learning **SAP ABAP**
 
