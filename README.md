@@ -19,7 +19,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufisildar&show_icons=true&locale=en&layout=compact" alt="yusufisildar" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yusufisildar&show_icons=true&locale=en" alt="yusufisildar" /></p>
+<!---  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yusufisildar&show_icons=true&locale=en" alt="yusufisildar" /></p> --->
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufisildar&" alt="yusufisildar" /></p>
 
