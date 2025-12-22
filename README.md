@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Dynamics 365 Business Central Developer**
 
-- 🌱 I’m currently learning **SAP ABAP**
+- 🌱 I’m currently learning **R Programming**
 
 - 📫 How to reach me **ysfisildar@gmail.com**
 
