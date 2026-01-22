@@ -1,12 +1,14 @@
-<p align="center"><img src="https://www.dexerto.com/cdn-cgi/image/width=750,quality=60,format=auto/https://editors.dexerto.com/wp-content/uploads/2020/07/heavy-smash-ultimate.jpg"> </p>
+<p align="center"><img src="https://i.imgur.com/h3nhVOM.jpeg"> </p>
 
 <h1 align="center">Hi 👋, I'm Yusuf IŞILDAR</h1>
-<h3 align="center">Imagination is essence of discovery.</h3>
+<h3 align="center"><blockquote>Imagination is essence of discovery.</blockquote></h3>
+<br></br>
 
 - 🔭 I’m currently working as **Dynamics 365 Business Central Developer**
 
 - 🌱 I’m currently learning **Power BI**
 <br></br>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/yusuf-isildar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ysfisildar@gmail.com) 
 <br></br>
